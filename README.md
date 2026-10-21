@@ -172,6 +172,5 @@ agrivision-ai/
 - Upgrade to `tflite_flutter` or Google Mediapipe for cross-platform desktop/web acceleration.
 
 ## 17. Author
-- **Developer:** [Kamalesh](https://github.com/<YOUR_GITHUB_USERNAME>)
-- **Portfolio / LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/<YOUR_PROFILE>)
-- **Email:** [Contact Email](mailto:your.email@example.com)
+- **Developer:** [Kamalesh](https://github.com/<kamalesh047>)
+- **Email:** [Contact Email](kamaleshsaravanan2007.n@gmail.com)
